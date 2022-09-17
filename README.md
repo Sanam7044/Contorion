@@ -14,9 +14,14 @@ All the configuration related values are defined in config.properties file
 All the element locators are in ElementLocator.java file
 Login test scenario is under Login.java class.
 
+Requirements:
+
+Gradle 7.5.1
+java "18.0.1.1"
+
 How to run:
-1. Clone repository: 
-2. Checkout branch: 
-3. Go to root directory
+1. Clone repository: https://github.com/Sanam7044/Contorion.git
+2. Checkout branch: feature/login
+3. Go to project root directory
 4. From the command line run 'gradle clean build'
 5. The report will generate in the root_directory/build/reports/tests/test/index.html
