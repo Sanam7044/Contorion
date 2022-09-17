@@ -21,7 +21,7 @@ java "18.0.1.1"
 
 How to run:
 1. Clone repository: https://github.com/Sanam7044/Contorion.git
-2. Checkout branch: feature/login
-3. Go to project root directory
+2. Go to project root directory (Contorion)
+3. Checkout branch: feature/login
 4. From the command line run 'gradle clean build'
 5. The report will generate in the root_directory/build/reports/tests/test/index.html
